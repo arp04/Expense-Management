@@ -1,7 +1,4 @@
 
-Simple Expense Manager
-This is a basic Android application for managing personal expenses. The app allows users to log in, add expense details, and provides monthly expense tracking that resets at the end of each month. The application utilizes RecyclerView for displaying the expenses and Room database for storing them.
-
 Features
 User Authentication: Simple login functionality to keep track of individual user expenses.
 Add Expenses: Users can add an expense with the amount, name, and description.
